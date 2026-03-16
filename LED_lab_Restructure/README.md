@@ -1,5 +1,7 @@
 SOS code restructure for LED Lab 
-Colby and Morgan 2/16/26
+Colby and Morgan 2/16/26 
+AND 
+Circuit Diagram for code with LED on the breadboard
 
 
 
